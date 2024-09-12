@@ -1,6 +1,6 @@
 
 package com.model;
-Pubilc class Book{
+public class Book{
    private int id;
    private String name;
 }
